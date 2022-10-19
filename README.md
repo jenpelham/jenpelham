@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jen</h1>
 <h3 align="center">A dev from Orlando with a background in design</h3>
-<p>Experience in higher education, pharmacy, grocery, and non-profits. And, throw in a BA in Anthropology because I think people are fascinating. I’m a lifelong people watcher and puzzle lover. Let’s do good work and let our work do good.</p>
+<p>Experience in higher education, pharmacy, grocery, and non-profits. And, throw in a BA in Anthropology because I think people are fascinating. I’m a lifelong people watcher and puzzle lover.</p>
 
 
 - 🔭 I’m currently working on **a National Parks trail app**
