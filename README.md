@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jen</h1>
-<h3 align="center">A dev from Orlando with a background in design</h3>
+<h3 align="center">A designer with a background in web dev</h3>
 <p>Experience in higher education, pharmacy, grocery, and non-profits. And, throw in a BA in Anthropology because I think people are fascinating. I’m a lifelong people watcher and puzzle lover.</p>
 
 
