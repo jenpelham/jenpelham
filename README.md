@@ -2,7 +2,7 @@
 <h3 align="center">A designer with a background in web dev</h3>
 <p>Experience in higher education, pharmacy, grocery, and non-profits. And, throw in a BA in Anthropology because I think people are fascinating. I’m a lifelong people watcher and puzzle lover.</p>
 
-- 👨‍💻 All of my projects are available at [https://jenpelham.com/](https://jenpelham.com/)
+- 👨‍💻 My portflio is available at [https://jenpelham.com/](https://jenpelham.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
